@@ -2,6 +2,7 @@
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
+	
 }
 
 body {
@@ -106,6 +107,16 @@ ul{
     list-style-type: none;
 }
 
+footer {
+    text-align: right;
+    margin-bottom: auto;
+    font-size: 1rem;
+}
+.redes img{
+    padding: 5px;
+    width: 50px;
+    height: 50px;
+}
 
 @media screen and (max-width: 900px) {
 	
