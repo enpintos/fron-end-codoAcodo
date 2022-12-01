@@ -34,7 +34,9 @@
 .form input{
     color: black;
 }
-    
+.form select option{
+    color: black;
+}    
 
 h3{
     color: white;
